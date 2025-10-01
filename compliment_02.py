@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Ben Snider
+# DATE: October 1, 2025
+# BRIEF DESCRIPTION: Compliment 2 
 
 
 
@@ -14,7 +14,12 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-
+answer = input('Would you like a compliment?: ')
+if answer == 'yes':
+    print('You have wonderful eyes.')
+else:
+    print('No compliment for you!')
+print('Thank you for playing.')
 
 
 
@@ -70,7 +75,7 @@ Thank you for playing.
 '''
 
 1. Did you struggle with this lab (YES/NO)?
-
+No
 
 
 
